@@ -1,0 +1,25 @@
+.App {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: #054ab8f9;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+  }
+
+.heading {
+    padding: 2rem 3rem;
+  }
+  
+  .heading > h1 {
+    font-size: 2.5rem;
+  }
+  
+  .heading > h3 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
